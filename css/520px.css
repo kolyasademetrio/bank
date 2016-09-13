@@ -1,0 +1,346 @@
+/* ------------------------>>> specials <<<----------------------------------------------------- */
+.specials__itemLink, 
+.specials__itemLink:last-child {
+    width: 96%;
+    margin: 0 2% 2% 2%;
+}
+/* ------------------------>>> specials End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> advancedSearch <<<----------------------------------------------------- */
+.advancedSearch__link,
+.advancedSearch__title {
+    margin: 10px;
+}
+
+.advancedSearch__header {
+    text-align: center;
+}
+
+.advancedSearch__exchange,
+.advancedSearch__period,
+.advancedSearch__consideration {
+    width: auto;
+    padding: 0;
+}
+
+.advancedSearch__summ {
+    padding-right: 0;
+}
+
+.advancedSearch__submit {
+    padding: 20px 0;
+}
+
+.advancedSearch__submitBtn {
+    display: block;
+    width: 100%;
+}
+/* ------------------------>>> advancedSearch End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> columns <<<----------------------------------------------------- */
+.columns {
+    padding: 0 10px;
+}
+
+.newsOfDay__titleLink,
+.news__titleLink,
+.newsOfDay__titleNewsLink  {
+    text-align: center;
+}
+/* ------------------------>>> columns End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> specialsColored <<<----------------------------------------------------- */
+.specialsColored__title {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+}
+
+.specialsColored__item {
+    width: 96%;
+    margin: 0 2% 2% 2%;
+}
+
+.specialsColored__item:nth-child(2),
+.specialsColored__item:last-child {
+    margin: 0 2% 2% 2%;
+}
+/* ------------------------>>> specialsColored End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> searchCards <<<----------------------------------------------------- */
+.searchCards__title {
+    text-align: center;
+}
+/* ------------------------>>> searchCards End <<<------------------------------------------------- */
+
+
+
+
+
+
+
+.wrapperPngProp .wrapperPngLeft .innerPngLeft {
+    width: 280px;
+}
+
+.pngLeft {
+	width: 140px;
+}
+
+body .main .linkBanks .bankBlock .bankBlockWr {
+	height: 95px;
+}
+
+.infoInMarg .tabRightMarg {
+	display: none;
+}
+
+.infoInMarg .tabLeftMarg {
+	width: 100%;
+}
+
+.main .bankBlock .bankBlockWr .bankOutR {
+    padding: 2px 0 0;
+}
+
+/* rate_of_exchange START */
+.sugWrapper .Wsug {
+	width: 98%;
+}
+
+.sugWrapper .sugInner {
+	margin: 0;
+	width: auto;
+	max-width: 100%;
+}
+
+.bannerBottom {
+    margin: 0;
+    text-align: center;
+}
+
+.raitInner3 .rait .carouselHider {
+    width: 146px;
+	margin: 0 auto;
+}
+
+.raitInner3 .rait .rait3title {
+    text-align: center;
+    height: 55px;
+    line-height: 25px;
+}
+
+.raitOffer {
+    background-color: #c5daec;
+	background-image: none;
+    margin: 50px 0 0;
+    padding: 10px;
+	text-align: center;
+}
+
+.raitWrapper .raitInner2 .raitBlock {
+    padding: 10px;
+}
+
+.raitWrapper .infoAllBest {
+	padding: 10px;
+}
+
+.infoAllBest .buy, .infoAllBest .sale {
+    width: 100%;
+	float: none;
+}
+
+.infoAllBest .buyInner {
+    margin: 0;
+}
+
+.infoAllBest .sale {
+    margin: 15px 0 0;
+}
+
+/* news feed START*/
+.newsVideo .newsVideoItem {
+    margin-left: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.newsVideo .newsVideoItem img {
+	display: inline-block;
+}
+
+.rightBlockFixWidth .topicOfDay .topicTitle,
+.mainWrapperAll .mainWrapperLeft h3,
+.newsBlock .newsList .newDate,
+.mainWrapperAll .mainWrapperLeft h1,
+.mainWrapperAll .mainWrapperLeft p,
+.newsBlock .newImage a {
+    text-align: center;
+}
+
+.newsBlock .newImage a {
+    display: block;
+}
+/* news feed STOP*/
+
+/* bank_dict_7 */
+.rightBlockFixWidth .topicOfDay a,
+.rightBlockFixWidth .topicOfDay p,
+.categoryTerm .groupOfTerms,
+.bannerExclusiveOfferWrapper .bannerExclusiveOfferInner,
+.blockNewsDict1 .itemOfNews a, .blockNewsDict2 .itemOfNews a,
+.blockNewsDict1 .itemOfNews div, .blockNewsDict2 .itemOfNews div {
+	text-align: center;
+}
+
+.blockNewsDict1 .itemOfNews div, .blockNewsDict2 .itemOfNews div {
+	background-position: 44% center;
+}
+/* bank_dict_7 End */
+
+/* banks_of_moscov */
+.mainWrapperAll .mainWrapperLeft .wrapperH1p {
+	padding-left: 0;
+	background: none;
+}
+/* banks_of_moscov End */
+
+/* banks_of_russia */
+.allBanksMain .allBanksSort {
+    text-align: center;
+}
+/* banks_of_russia End */
+
+/*deposits*/
+.depositsWrapper .depBlock1 h2,
+.sugWrapper h2,
+.depBlock4 h2,
+.depBlock6 h2,
+.depBlock8 h2,
+.depBlock9 h2,
+.tblBlock9 .trHeadBlock9 th,
+.depBlock9 .depBlock9Inner .tblBlock9,
+.depBlock10 h2,
+.autorInfo .autorInfoInner,
+.depBlock2 .bankInfo {
+    text-align: center;
+}
+
+.autorInfo .autorImg {
+    float: none;
+    display: none;
+}
+
+.autorInfo .autorInfoInner {
+    margin: 0;
+}
+
+.depBlock5Inner {
+    padding: 0;
+    background: none;
+    text-align: center;
+}
+
+.depBlock11 .column {
+    width: auto;
+    float: none;
+    text-align: center;
+}
+
+.depBlock10 p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.depBlock8 .interview {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.depBlock4 ul {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*deposits End*/
+
+
+
+
+
+
+
+/*consumerBlock9*/
+.consumerBlock9 h2 {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+}
+/*consumerBlock9 End*/
+
+/*consumerBlock11*/
+.consumerBlock11 h2 {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+}
+/*consumerBlock11 End*/
+
+/*consumerBlock12*/
+.consumerBlock12 h2 {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+}
+
+.consumerBlock12 .consBlock12Inner {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.consumerBlock12 .consBlock12Inner .readMoreLink {
+    margin-left: 10px;
+}
+/*consumerBlock12 End*/
+
+/*consumerBlock13*/
+.consumerBlock13 h2 {
+    text-align: center;
+}
+
+.consumerBlock13 .column {
+    float: none;
+    width: auto;
+    margin: 0 2%;
+}
+
+.consumerBlock13 .column:nth-child(3) {
+    margin: 0 2%;
+}
+
+.consumerBlock13 .column li {
+    display: inline-block;
+    margin-right: 30px;
+}
+/*consumerBlock13 End*/
+
+
+
+
+
+
+
+
+
+
+
+
+

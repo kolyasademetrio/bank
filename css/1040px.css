@@ -1,0 +1,197 @@
+/* ------------------------>>> header <<<----------------------------------------------------- */
+.header {
+	height: auto;
+	overflow: hidden;
+	zoom: 1;
+}
+
+.dataFeeds {
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.headerBanner {
+	padding-top: 40px;
+}
+/* ------------------------>>> header End <<<------------------------------------------------- */
+
+/* ------------------------>>> footer <<<----------------------------------------------------- */
+.footer__logoWrap {
+	text-align: center;
+}
+
+.footer__logoWrap .logoLink {
+	display: inline-block;
+}
+
+ .footer__copyright, 
+ .footer__social {
+	float: none;
+	width: auto;
+	margin: 0;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.footer__socialTitle {
+	line-height: 25px;
+}
+
+.footer__btnLink {
+	display: block;
+}
+
+.footer__footer {
+	padding: 10px 0;
+	text-align: center;
+}
+
+.footer__item {
+	display: inline-block;
+	float: none;
+}
+/* ------------------------>>> footer End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> ОСНОВНОЙ БЛОК две колонки <<<--------------------------------- */
+.mainWrap__aside {
+    width: auto;
+	float: none;
+}
+
+.mainWrap__section {
+    margin: 0;
+}
+/* ------------------------>>> ОСНОВНОЙ БЛОК две колонки End <<<----------------------------- */
+
+
+
+/* ------------------------>>> mainWrap__aside <<<----------------------------------------------------- */
+
+.asideBannerLink {
+    display: none;
+}
+
+.asideTopicOfDay__info {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.asideTopicOfDay__linkImg {
+    width: 50%;
+	float: left;
+	margin: 0;
+}
+
+.asideTopicOfDay__linkTitle,
+.asideTopicOfDay__text {
+    margin-left: 52%;
+}
+
+/* ------------------------>>> mainWrap__aside End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> содержимое левой колонки mainWrap__section <<<-------------------------- */
+
+
+
+/* ------------------------>>> содержимое левой колонки mainWrap__section End <<<---------------------- */
+
+
+
+
+
+.main .linkBanks .bankBlock {
+	float: none;
+	width: auto;
+	margin: 10px 0;
+}
+	
+.main .linkBanks .bankBlock .bankBlockWr {
+	height: 68px;
+}
+
+.main .bankBlock .bankOutR {
+	height: 50px;
+	padding: 15px 0 0;
+}
+
+.wrapperPabl .raiting {
+	margin: 0;
+}
+
+.wrapperPabl .pabl {
+	float: none;
+	width: auto;
+}
+
+
+
+.wrapperPngProp .wrapperPropRight {
+	float: none;
+	margin: 0 auto;
+	width: auto;
+	padding: 0 10px;
+}
+
+.wrapperPngProp .wrapperPngLeft {
+	margin: 0;
+}
+
+.innerPngLeft {
+	width: 660px;
+}
+
+.wrapperPabl .sugWrapper .Wsug {
+	width: 48%;
+}
+
+.main .blockquote {
+	width: 90%;
+}
+
+/* rate_of_exchange START */
+.raitWrapper .bannerRait {
+    display: none;
+}
+
+.raitWrapper .rait {
+	margin: 0;
+}
+
+.sugWrapper .Wsug {
+	width: 48%;
+}
+
+.sugWrapper .sugInner {
+	margin: 0 auto;
+	width: 750px;
+	max-width: 100%;
+}
+
+
+
+/* rate_of_exchange_CB */
+.mainWrapperLeft h1 .rate {
+	position: absolute;
+}
+/* rate_of_exchange_CB End */
+
+/*deposits*/
+.depositsWrapper .depBlock1 .depSearch,
+.depositsWrapper .depBlock1 .depOfMonth {
+	float: none;
+	width: auto;
+}
+/*deposits End*/
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+/* ------------------------>>> header <<<----------------------------------------------------- */
+.header__logoWrap {
+	padding-left: 35px;
+}
+
+.headerBanner {
+	padding-right: 10px;
+}
+/* ------------------------>>> header End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> footer <<<----------------------------------------------------- */
+.footer__wrap {
+	width: auto;
+}
+/* ------------------------>>> footer End <<<------------------------------------------------- */
+
+
+
+
+.innerPngLeft {
+	width: 660px;
+	margin: auto;
+}
+	
+.linkBanks .bankBlock .bankBlockWr {
+	height: 142px;
+}
+
+/* rate_of_exchange_CB */
+.mainWrapperLeft h1 .rate {
+	position: static;
+	display: inline-block;
+}
+/* rate_of_exchange_CB End */

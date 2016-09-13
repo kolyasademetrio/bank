@@ -1,0 +1,49 @@
+/* specials */
+.specials__itemLink {
+	width: 204px;
+	float: left;
+	margin: 0 17px 17px 0;
+}
+
+.ie-specFourth {
+	margin: 0;
+}
+
+/* tableBlock */
+.tableBlock__table {
+	width: 870px;
+}
+
+/* columns */
+.columns__column {
+	width: 426px;
+	margin-right: 17px;
+}
+
+.ie-colSecond {
+	margin: 0px;
+}
+
+/* specialsColored */
+.specialsColored__item {
+	float: left;
+	width: 279px;
+	margin: 0 17px 0 0;
+	text-align: center;
+}
+
+.ie-specColThird {
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+

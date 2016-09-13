@@ -1,0 +1,229 @@
+
+/* ------------------------>>> header <<<----------------------------------------------------- */
+.header {
+	text-align: center;
+	margin: 10px 0 10px;
+}
+
+.header__exchangeLink {
+	display: inline-block;
+	margin: 10px 0 0;
+}
+/* ------------------------>>> header End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> ОСНОВНОЙ БЛОК две колонки <<<--------------------------------- */
+.mainWrap {
+	padding: 0;
+}
+/* ------------------------>>> ОСНОВНОЙ БЛОК две колонки End <<<----------------------------- */
+
+
+
+/* ------------------------>>> содержимое правой колонки mainWrap__aside <<<-------------------------- */
+.asideTopicOfDay__title {
+	padding: 0 18px;
+}
+/* ------------------------>>> содержимое правой колонки mainWrap__aside End <<<---------------------- */
+
+
+
+/* ------------------------>>> содержимое левой колонки mainWrap__section <<<-------------------------- */
+.breadcrumbs,
+.titleMain,
+.textMain {
+	text-align: center;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+
+
+/* ------------------------>>> specials <<<----------------------------------------------------- */
+.specials__itemLink, 
+.specials__itemLink:last-child {
+    width: 94%;
+    margin: 0 3% 3% 3%;
+}
+/* ------------------------>>> specials End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> tableBlock <<<----------------------------------------------------- */
+.tableBlock__tdPerc,
+.tableBlock__tdSumm,
+.tableBlock__tdBtn,
+.tableBlock__btn {
+	display: block;
+	width: auto;
+}
+
+.tableBlock__goodName,
+.tableBlock__bankName {
+	margin: 0;
+}
+/* ------------------------>>> tableBlock End <<<------------------------------------------------- */
+
+/* ------------------------>>> содержимое левой колонки mainWrap__section End <<<---------------------- */
+
+.bankBlock .bankOut {
+    display: none;
+}
+
+.bankBlock .bankOutR {
+    margin: 0;
+}
+
+html body .main .linkBanks .bankBlock .bankBlockWr {
+    height: 68px;
+}
+
+.linkBanks .bankBlock .bankBlockWr {
+	padding: 10px;
+	text-align: center;
+}
+
+.bankBlock .bankOutR {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.wrapperPropRight .tabs {
+	height: 128px;
+}
+
+.wrapperPropRight .tab {
+	display: block;
+	text-align: center;
+}
+
+.wrapperPropRight .active {
+	position: absolute;
+	top: 79px;
+	width: 97%;
+}
+
+.wrapperPabl .raiting .tabs1 {
+	height: 121px;
+	position: relative;
+	text-align: center;
+}
+
+body .main .raiting .active1 {
+	position: absolute;
+	top: 83px;
+	background: none;
+	width: 90%;
+}
+
+.wrapperPropRight .offer {
+	text-align: center;
+}
+
+.blockquote input, .blockquote select {
+	width: 90%;
+}
+
+.main .blockquote {
+    width: 100%;
+	padding: 10px;
+}
+
+/* rate_of_exchange START */
+.raitWrapper {
+    padding: 7px;
+}
+
+.raitWrapper .rait h1 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: center;
+}
+
+.raitWrapper .rait p,
+.raitWrapper .rait h3 {
+    text-align: center;
+}
+
+.mainWrapperLeft h1 .rate {
+	height: auto;
+}
+/* rate_of_exchange End */
+
+/* banks_of_moscov */
+.mainWrapperAll {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.mainWrapperAll .mainWrapperLeft h1 {
+	white-space: nowrap;
+}
+
+.pseudolinkCal {
+	display: none;
+}
+
+.applicationFormWrap .applicForm1,
+.applicationFormWrap .applicForm2 {
+	float: none;
+	width: 100%;
+}
+
+.applicationFormWrap .applicForm .applicFormInner {
+	margin: 0;
+}
+
+.mainWrapperAll .mainWrapperLeft .wrapperH1p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.mainWrapperAll .mainWrapperLeft .pageInd {
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+/* banks_of_moscov End */
+
+/*consumer_credit*/
+.mainWrapperAll .mainWrapperLeft h1 {
+	white-space: normal;
+}
+
+/*consumerBlock6*/
+table .trBlock td {
+	display: block;
+	margin: 0 auto;
+}
+/*consumerBlock6 End*/
+/*consumer_credit End*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,189 @@
+/* ------------------------>>> banner, headBar, header, nav, footer <<<---------------------------------- */
+
+.headBar__searchFormWrap {
+	height: 40px;
+	background: #F0F0F0;
+}
+
+.searchInside {
+	color: #BDC3C7;
+}
+
+.header__logoWrap {
+	float: left;
+	padding:12px 0 0 0;
+}
+
+.logoLink {
+	display:block;
+}
+
+.logoLink__img {
+	display:block;
+	width: 246px;
+	height: 38px;
+}
+
+.footer__socialTitle {
+	border-bottom: 1px solid #BDC3C7;
+	height: 43px;
+	padding: 0 0 12px;
+	margin: 0 0 15px;
+	line-height: 70px;
+	font-size: 16px;
+	font-weight: 700;
+	color: #7f8c8d;
+	text-transform: uppercase;
+}
+
+
+
+
+.infoAllBest .buy,
+.infoAllBest .sale {
+	width: 49%;
+} 
+
+/* видео */
+.newsVideo {
+	display: block;
+}
+
+#newsVideoItem3 {
+	margin-right: 0;
+}
+
+/* bank_dict */
+.searchWrapper {
+	zoom: 1;
+}
+
+.serchWindow .searchFormW {
+	zoom: 1;
+}
+
+.serchWindow .inputWrapper {
+	width: 660px;
+	float: left;
+	display: inline;
+}
+
+.serchWindow .submitWrapper {
+	float: right;
+	display: inline;
+	margin-right: 47px;
+}
+
+.serchWindow .searchField {
+	width: 638px;
+}
+
+/* lettersSearch */
+.lettersSearch {
+	height: 150px;
+}
+/* lettersSearch End */
+
+/* bannerExclusiveOfferWrapper */
+.bannerExclusiveOfferWrapper .bannerExclusiveOfferInner {
+	background: #C5DAEC url(../img/protection-small.png) no-repeat 14px center;
+}
+/* bannerExclusiveOfferWrapper End */
+
+/* carousel */
+.carouselList li .slideTitle {
+	background: url(../img/notepad.png) no-repeat 45% top;
+	padding: 3px 0 0 15%;
+}
+/* carousel End */
+
+/* rate_of_exchange_CB */
+.mainWrapperLeft h1 .rate {
+	background: #ECF0F1 url(../img/bank-icon.png) no-repeat 22px center;
+}
+
+.currentExchRateTitle .lupa {
+	background: url(../img/lupa.png) no-repeat 210px center;
+}
+
+.mainWrapperLeft .pseudolinkCal {
+	color: #369;
+	border-bottom: 1px dashed #369;
+	cursor: pointer;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.mainWrapperLeft h1>span {
+	margin: 0 10px 0 10px;
+	display: inline-block;
+}
+
+.currentExchRateTitle form {
+	width: 245px;
+	top: -1px;
+}
+
+.currentExchRateTitle input {
+	background: url(../img/lupa.png) no-repeat 210px center;
+}
+/* rate_of_exchange_CB End */
+
+/* banks_of_moscov */
+.userRevFooter .linkWithIcon1,
+.userRevFooter .linkWithIcon2 {
+	background-position: 0 center;
+}
+
+.infoAllBest .buy,
+.infoAllBest .sale {
+	width: 49%;
+} 
+
+.applicationFormWrap .applicForm {
+	width: 49%;
+}
+
+.review .gradeWrap .grade {
+	border: none;
+}
+/* banks_of_moscov End */
+
+/*consumer_credit*/
+/*consumerBlock11*/
+.contTabsWrapper .tab .spanWrap .user {
+	background: url(../img/user.png) no-repeat left top;
+}
+
+.contTabsWrapper .tab .spanWrap .view {
+	background: url(../img/eye1.png) no-repeat left center;
+}
+
+.contTabsWrapper .tab .spanWrap .bank a {
+	background: url(../img/bank-icon.png) no-repeat left top;
+}
+/*consumerBlock11 End*/
+/*consumer_credit End*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

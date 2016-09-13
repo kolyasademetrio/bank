@@ -1,0 +1,568 @@
+/* ------------------------>>> header <<<----------------------------------------------------- */
+.headerBanner {
+	display: none;
+}
+
+.header__logoWrap {
+	width: 246px;
+	float: none;
+	padding: 0;
+	display: block;
+	margin: 0 auto;
+}
+
+.dataFeeds {
+	float: none;
+	margin: 25px auto 0;
+	width: 336px;
+}
+
+.dataFeeds__th,
+.dataFeeds__td {
+	width: 56px;
+}
+/* ------------------------>>> header End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> headerBar <<<------------------------------------------------------------ */
+.headBar {
+	border-top: 1px solid #eaeaea;
+	border-bottom: 1px solid #eaeaea;
+	height: 60px;
+	margin-top: 20px;
+}
+
+.headBar__wrap {
+	position: relative;
+	height: 60px;
+}
+
+.headBar__time {
+	display: none;
+}
+
+.headBar__form {
+	height: 60px;
+	border: none;
+	background: #91A1E2;
+}
+
+.headBar__search {
+	position: absolute;
+	left: 0;
+	right: 154px;
+	top: 0;
+	height: 60px;
+	width: auto;
+	border: none;
+}
+
+.headBar__searchFormWrap {
+	width: 200px;
+}
+
+.headBar__authent {
+	width: 134px;
+	height: 60px;
+	line-height: 60px;
+}
+
+.headBar__linkImg {
+	left: 0;
+	right: 0;
+}
+
+.headBar__img {
+	width: 100%;
+}
+
+.headBar__triangle {
+	display: none;
+}
+/* ------------------------>>> headerBar End <<<------------------------------------------- */
+
+
+/* ------------------------>>> nav <<<----------------------------------------------------- */
+.nav {
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.nav__item {
+	float: none;
+	width: auto;
+}
+
+.nav_itemTitle {
+	text-align: center;
+	cursor: pointer;
+	margin: 10px 0 0 0;
+}
+
+.nav__link {
+	text-align: center;
+}
+
+.nav__subListHidden {
+	display: block;
+}
+
+.nav__subList {
+    display: none;
+}
+
+.openNav {
+	display: none;
+}
+/* ------------------------>>> nav End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> mainWrap__aside <<<--------------------------------------------------- */
+.asideTopicOfDay__linkImg {
+    display: none;
+}
+
+.asideTopicOfDay__linkTitle,
+.asideTopicOfDay__text {
+    margin-left: 0;
+}
+/* ------------------------>>> mainWrap__aside End <<<----------------------------------------------- */
+
+
+
+/* ------------------------>>> mainWrap__section <<<-------------------------------------------------- */
+
+/* ------------------------>>> specials <<<-------------------------------------------------- */
+.specials__itemLink {
+	width: 49%;
+	margin: 0 2% 2% 0;
+}
+
+.specials__itemLink:nth-child(2n) {
+	margin-right: 0;
+}
+/* ------------------------>>> specials End <<<----------------------------------------------- */
+
+
+
+/* ------------------------>>> advancedSearch <<<--------------------------------------------- */
+.advancedSearch__headerItem {
+	display: block;
+	padding-bottom: 20px;
+	vertical-align: center;
+}
+
+.advancedSearch__exchange,
+.advancedSearch__period,
+.advancedSearch__consideration {
+	width: 200px;
+}
+/* ------------------------>>> advancedSearch End <<<----------------------------------------- */
+
+
+
+/* ------------------------>>> teaser <<<----------------------------------------------------- */
+
+.teaser {
+	text-align: center;
+}
+
+.teaser__linkImg {
+	float: none;
+	display: none;
+}
+
+.teaser__link {
+	margin: 0;
+}
+
+.teaser__text {
+	margin: 0;
+}
+
+/* ------------------------>>> teaser End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> tableBlock <<<----------------------------------------------------- */
+.tableBlock__title {
+	text-align: center;
+}
+
+.tableBlock__table,
+.tableBlock__table tbody,
+.tableBlock__trHead,
+.tableBlock__trContent,
+.tableBlock__th,
+.tableBlock__tdGoods {
+	display: block;
+	text-align: center;
+}
+
+.tableBlock__thPerc,
+.tableBlock__thSumm,
+.tableBlock__thBtn,
+.tableBlock_linkImg {
+	display: none;
+}
+
+.tableBlock__thGoods {
+	background: #c5daec;
+}
+
+.tableBlock__tdGoods {
+	background: #ECF0F1;
+}
+
+.tableBlock__tdPerc,
+.tableBlock__tdSumm,
+.tableBlock__tdBtn {
+	width: 40%;
+}
+/* ------------------------>>> tableBlock End <<<------------------------------------------------- */
+
+
+
+/* ------------------------>>> columns <<<----------------------------------------------------- */
+.columns__column {
+	float: none;
+	width: auto;
+	margin: 0;
+}
+/* ------------------------>>> columns End <<<------------------------------------------------- */
+
+
+/* ------------------------>>> specialsColored <<<----------------------------------------------------- */
+.specialsColored__item {
+	width: 49%;
+	margin: 0 2% 2% 0;
+}
+
+.specialsColored__item:nth-child(2n) {
+	margin-right: 0;
+}
+/* ------------------------>>> specialsColored End <<<------------------------------------------------- */
+
+/* ------------------------>>> mainWrap__section End <<<------------------------------------------------ */
+
+
+
+
+
+
+
+.wrapperPngLeft .innerPngLeft {
+	width: 440px;
+}
+
+.wrapperPabl .raiting .tabs1 {
+	border: 4px solid #34495e;
+}
+
+.wrapperPabl .raiting .tab1 {
+	display: block;
+}
+
+.main .raiting .active1 {
+	text-align: center;
+	border: none;
+}
+
+.main .raiting .active1:hover {
+	border: none;
+}
+
+.raiting h4  {
+	text-align: center;
+}
+
+.main .wrapperPabl .sugWrapper .Wsug {
+	width: 98%;
+}
+
+.banner .aBanner {
+	margin: 0;
+}
+
+.main .wrapperPabl {
+	padding-bottom: 0;
+}
+
+.wrapperPabl .bannerBottom {
+	margin-top: 10px;
+}
+
+/* rate_of_exchange START */
+.raitWrapper .tabsAll {
+	min-width: 280px;
+	width: auto;
+	float: none;
+}
+
+.diagramsWrapper {
+	width: auto;
+	float: none;
+}
+
+.raitOffer {
+	height: auto;
+}
+
+/* news feed */
+
+
+
+.newsBlock .newsList {
+    width: auto;
+}
+
+.newsBlock {
+    padding-top: 18px;
+}
+
+.newsBlock > div:last-child {
+    margin-top: 20px;
+}
+
+.newsBlock > div:first-child {
+    margin: 0;
+}
+
+.newsBlock .newImage {
+    width: auto;
+}
+
+/* bank_dict_7 */
+/* bannerExclusiveOfferWrapper */
+.bannerExclusiveOfferWrapper .bannerExclusiveOfferInner {
+	padding-left: 18px;
+	background-image: none;
+}
+/* bannerExclusiveOfferWrapper End */
+
+/* categoryTerm */
+.categoryTerm .blockOfTerms1,
+.categoryTerm .blockOfTerms2 {
+	float: none;
+	width: auto;
+}
+
+.categoryTerm .titleOfTerms {
+	border-bottom: 1px solid #9bbbe3;
+	margin: 0 0 6px 0;
+	padding: 0 0 5px 0;
+}
+/* categoryTerm End*/
+
+/* newInDict and popularTerms */
+.newInDict .blockNewsDict1,
+.newInDict .blockNewsDict2 {
+	float: none;
+	width: auto;
+}
+
+.blockNewsDict1 .itemOfNews a,
+.blockNewsDict2 .itemOfNews a  {
+	border-bottom: 1px solid #9bbbe3;
+	padding: 0 0 5px 0;
+}
+/* newInDict and popularTerms */
+
+/* notice */
+.notice {
+	padding-left: 13px;
+}
+
+.backgroundNotice {
+	display: none;
+}
+/* notice End */
+/* bank_dict_7 End*/
+
+/* rate_of_exchange_CB */
+.mainWrapperLeft h1 .rate {
+	position: static;
+	display: block;
+	margin-top: 10px;
+	text-align: center;
+	background: url(../img/bank-icon.png) no-repeat 5% center, url(../img/bank-icon.png) no-repeat 95% center;
+	background-color: #ECF0F1;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.currentExchRateTitle form {
+    position: static;
+	margin-bottom: 20px;
+    width: 100%;
+}
+
+.currentExchRateTitle input {
+	background: url(../img/lupa.png) no-repeat 95% center;
+	width: 50%;
+	height: 40px;
+	margin: 0 auto;
+	display: block;
+	padding: 0 10% 0 10px;
+}
+
+.currentExchRateTitle h3 {
+	text-align: center;
+}
+/* rate_of_exchange_CB End */
+
+/* banks_of_moscov */
+.review {
+	padding-right: 14px;
+	background: none;
+}
+
+.applicationFormWrap .applicFormInner .appTitleWrap,
+.applicationFormWrap .applicFormInner .appImgWrap,
+.applicationFormWrap .applicFormInner .appButt {
+	text-align: center;
+}
+
+.applicFormInner .appImgWrap .appImgLink {
+	float: none;
+	display: block;
+	margin-right: 0;
+}
+
+.applicationFormWrap .applicFormInner .appButt {
+	width: auto;
+	display: block;
+}
+
+.infoAllBest .buy, .infoAllBest .sale {
+    width: 100%;
+	float: none;
+}
+
+.infoAllBest .buyInner {
+    margin: 0;
+}
+
+.infoAllBest .sale {
+    margin: 15px 0 0;
+}
+/* banks_of_moscov End*/
+
+/*banks_of_russia*/
+.allBanksWrap .bankItem .bankItemLogoLink {
+	display: none;
+}
+
+.allBanksWrap .bankItem .bankItemInfoWrap {
+	margin-left: 0;
+	margin-right: 140px;
+}
+/*banks_of_russia End*/
+
+/*deposits*/
+.depBlock9Inner table,
+.depBlock9Inner tr,
+.depBlock9Inner th,
+.depBlock9Inner .tdDispBlock {
+	display: block;
+}
+
+.depBlock9Inner .hideTh750,
+.depBlock9Inner td {
+	display: none;
+}
+
+.depBlock2 .depLinkBank1 {
+	display: none;
+}
+/*deposits End*/
+
+/*consumer_credit*/
+/*consumerBlock1*/
+.consumerBlock1 .offerItem {
+	width: 49%;
+	margin: 0 2% 2% 0;
+}
+
+.consumerBlock1 .offerItem:nth-child(2n+2) {
+	margin-right: 0;
+}
+
+.consBlock2Form .consBlock2FormInnerUp .inputSelect {
+	display: block;
+	padding-bottom: 20px;
+	vertical-align: center;
+}
+
+.consBlock2FormInnerUp .blockSelectExchange .SelectExchange {
+	width: 200px;
+}
+
+.consBlock2FormInnerUp .blockSelectPeriod .selectPeriod {
+	width: 200px;
+}
+
+.consBlock2FormInnerUp .blockSelectApplicationProcessing .selectPeriodAppl {
+	width: 200px;
+}
+/*consumerBlock1 End*/
+
+/*consumerBlock3*/
+.consumerBlock3 .consBl3LinkImg {
+	float: none;
+	display: none;
+}
+
+.consumerBlock3 .consBl3Info {
+	margin: 0;
+	text-align: center;
+}
+/*consumerBlock3 End*/
+
+
+
+
+
+/*consumerBlock6*/
+.consumerBlock6 h2 {
+	text-align: center;
+}
+
+.consumerBlock6 table .trHead .thPerc,
+.consumerBlock6 table .trHead .thSumm,
+.consumerBlock6 table .trHead .thBtn {
+	display: none;
+}
+
+.consumerBlock6 table,
+.consumerBlock6 table tbody,
+.consumerBlock6 table tbody tr,
+.consumerBlock6 table tbody tr th,
+.consumerBlock6 table tbody tr td.tdBankName {
+	display: block;
+	text-align: center;
+}
+
+.consumerBlock6 table tbody tr th.thBankName {
+	background: #c5daec;
+}
+
+.consumerBlock6 table tbody tr td.tdBankName {
+	background: #ECF0F1;
+}
+
+table .trBlock .tdPerc,
+table .trBlock .tdSumm,
+table .trBlock .tdBtn {
+	width: 40%;
+}
+/*consumerBlock6 End*/
+
+
+/*consumer_credit End*/
+
+
+
+
+
+
+

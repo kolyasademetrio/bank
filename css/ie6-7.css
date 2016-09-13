@@ -1,0 +1,525 @@
+/* ------------------------>>> banner, headBar, header, nav, footer <<<---------------------------------- */
+
+html {
+	overflow: auto;
+}
+
+body {
+	text-align: center;
+	background: #F0F0F0;
+}
+
+.main,
+.headBar__searchForm,
+.footer  {
+	text-align: left;
+}
+
+.banner__img,
+.headBar__wrap,
+.main,
+.footer__wrap {
+	max-width: none;
+}
+
+.banner {
+	width: 1240px;
+	margin: 0 auto;
+}
+
+.banner__img {
+	width: 980px;
+	height: 150px;
+}
+
+.headBar__triangle {
+	display: none;
+}
+
+.headBar__searchFormWrap {
+	height: 16px;
+	background: #F0F0F0;
+}
+
+.header {
+	height: 1%;
+	zoom: 1;
+}
+
+.nav__item {
+	width: 309px;
+}
+
+.footer__socialTitle {
+	height: 20px;
+	padding: 0 0 0px;
+	line-height: 55px;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.footer__socialList {
+	zoom:1;
+}
+
+.footer__socialItem {
+	float: left;
+}
+
+/* ------------------------>>> banner, headBar, header, nav, footer End <<<------------------------------ */
+
+/* specials */
+.specials__itemLink {
+	width: 204px;
+	float: left;
+	margin: 0 17px 17px 0;
+}
+
+.ie-specFourth {
+	margin: 0;
+}
+
+/* advancedSearch */
+.advancedSearch,
+.advancedSearch__header {
+	zoom: 1;
+}
+
+.advancedSearch__headerItem {
+	display: block;
+	float: left;
+	padding-right: 10px;
+}
+
+.advancedSearch__summ {
+	width: 190px;
+}
+
+.advancedSearch__exchange {
+	width: 90px;
+	padding-top: 29px;
+}
+
+.advancedSearch__period {
+	width: 150px;
+}
+
+.advancedSearch__consideration {
+	width: 150px;
+}
+
+.advancedSearch__submit {
+	margin-top: 10px;
+}
+
+.advancedSearch__submitBtn {
+	display: block;
+	width: 100%;
+}
+
+.advancedSearch__inputSumm,
+.advancedSearch__selectExchange,
+.advancedSearch__selectPeriod,
+.advancedSearch__selectConsideration {
+	width: auto;
+	padding: 2px 10px;
+	height: auto;
+}
+
+.advancedSearch__headerItem label {
+	margin: 0 0 6px 0;
+	display: block;
+}
+
+/* teaser */
+.teaser__link,
+.teaser__text {
+	margin-left: 0;
+}
+
+.teaser__linkImg {
+	display: none;
+}
+
+/* tableBlock */
+.tableBlock__table {
+	width: 870px;
+}
+
+/* columns */
+.columns__column {
+	width: 426px;
+	margin-right: 17px;
+}
+
+.ie-colSecond {
+	margin: 0px;
+}
+
+/* specialsColored */
+.specialsColored__item {
+	float: left;
+	width: 279px;
+	margin: 0 17px 0 0;
+	text-align: center;
+}
+
+.ie-specColThird {
+	margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* карусель НАЧАЛО */
+.carousHiderWrapper {
+	padding: 0;
+	position: static;
+}
+
+.carouselHider {
+	width: 668px;
+	margin: auto;
+}
+
+.carouselList {
+	position: static;
+	list-style: none;
+	width: 668px;
+}
+
+.carouselList li {
+	width: 167px;
+	display: block;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+
+.carouselHider .carouselArrowLeft, 
+.carouselHider .carouselArrowRight {
+	display: none;
+}
+
+.carouselList li .slideTitle {
+	background: url(../img/notepad.png) no-repeat 10px top;
+	padding: 3px 0 0 0;
+}
+/* карусель КОНЕЦ */
+
+/* карусель2 НАЧАЛО */
+.carousHiderWrapper2 {
+	padding: 0;
+	position: static;
+}
+
+.carouselHider2 {
+	width: 668px;
+	margin: auto;
+}
+
+.carouselList2 {
+	position: static;
+	list-style: none;
+	width: 668px;
+}
+
+.carouselList2 li {
+	width: 167px;
+	display: block;
+	cursor: pointer;
+}
+
+.carouselHider2 .carouselArrowLeft2, 
+.carouselHider2 .carouselArrowRight2 {
+	display: none;
+}
+
+.carouselList2 li .slideTitle {
+	background: url(../img/notepad.png) no-repeat 10px top;
+	padding: 3px 0 0 0;
+}
+/* карусель2 КОНЕЦ */
+
+/*news feed START*/
+.newsVideo .overlay {
+	filter: alpha(opacity=50);
+}
+
+.newsBlock .newsList .newLink a {
+	line-height: 19px;
+}
+/*news feed STOP*/
+
+.nav .dispNone {
+    margin-top: 20px;
+}
+
+/* видео */
+.newsVideo {
+	display: none;
+}
+
+/* bank_dict */
+.searchWrapper {
+	zoom: 1;
+}
+
+.serchWindow .inputWrapper {
+	float: left;
+	width: 660px;
+}
+
+.serchWindow .submitWrapper {
+	width: 97px;
+}
+
+.serchWindow .searchField {
+	width: 90%;
+	padding: 10px 10px;
+	height: 20px;
+}
+
+.serchWindow .submitButton {
+	border: 3px solid #2A7AAF;
+	padding: 7px 17px 5px;
+}
+
+/* lettersSearch */
+.lettersSearch .lettersRus li,
+.lettersSearch .lettersEng li {
+	display: inline;
+}
+/* lettersSearch End */
+
+/* categoryTerm */
+.categoryTerm {
+	zoom: 1;
+}
+/* categoryTerm End */
+
+/* bannerExclusiveOfferWrapper */
+ .bannerExclusiveOfferWrapper {
+	zoom: 1;
+}
+
+.bannerExclusiveOfferWrapper .bannerExclusiveOfferInner {
+	zoom: 1;
+	background: #C5DAEC url(../img/protection-small.png) no-repeat 95px center;
+}
+/* bannerExclusiveOfferWrapper End */
+
+/* newInDict end styles for popularTerms */
+.newInDict {
+	zoom: 1;
+}
+/* newInDict end styles for popularTerms End */
+
+/* notice */
+.notice {
+	zoom: 1;
+}
+/* notice End */
+
+/* rate_of_exchange_CB */
+.mainWrapperAll .mainWrapperLeft h1 {
+	zoom: 1;
+	overflow: hidden;
+}
+
+.mainWrapperLeft h1 .rate {
+	background: #ECF0F1 url(../img/bank-icon.png) no-repeat 70px center;
+}
+
+.currentExchRateTitle .lupa {
+	background: none;
+}
+
+.currentExchRate {
+	zoom: 1;
+	overflow: hidden;
+}
+
+.sugWrapper .Wsug {
+	width: 270px;
+	height: 472px;
+}
+/* rate_of_exchange_CB End */
+
+/* banks_of_moscov */
+.revItem3 {
+	margin: 0;
+}
+
+.letters li {
+	display: inline;
+}
+
+.userRevFooter .linkWithIcon1,
+.userRevFooter .linkWithIcon2 {
+	background-position: 25px center;
+}
+
+.infoAllBest .buy,
+.infoAllBest .sale {
+	width: 49%;
+} 
+/* banks_of_moscov End */
+
+/* banks_of_russia */
+.alt_page_navigation {
+	zoom: 1;
+}
+
+.allBanksMain .allBanksSort .selWrapp {
+	float: left;
+}
+
+.allBanksMain .allBanksSort {
+	zoom: 1;
+}
+
+.select-styled {
+	width: 216px;
+}
+
+.select-styled:after {
+	border-color: #fff;
+	border-top-color: #369;
+}
+
+.select-options {
+	width: 248px;
+}
+/* banks_of_russia End */
+
+/* deposits */
+.depositsWrapper .depBlock1 .depSearch,
+.depositsWrapper .depBlock1 .depOfMonth {
+    float: left;
+    width: 48%;
+}
+
+.depBlock1 .summInner input {
+	border-color: white;
+}
+/* deposits End */
+
+/* consumer_credit */
+.consumerBlock1 a.offItemFourth {
+	margin: 0;
+}
+
+.consumerBlock1 .offerItem {
+	width: 205px;
+	float: left;
+	margin: 0 16px 0 0;
+}
+
+.consBlock2Form .consBlock2FormInnerUp {
+	overflow: hidden;
+	zoom: 1;
+}
+
+.consBlock2Form .consBlock2FormInnerUp .blockInputSumm,
+.consBlock2Form .consBlock2FormInnerUp .blockSelectExchange,
+.consBlock2Form .consBlock2FormInnerUp .blockSelectPeriod,
+.consBlock2Form .consBlock2FormInnerUp .blockSelectApplicationProcessing,
+.consBlock2Form .consBlock2FormInnerUp .blockSubmit {
+	display: block;
+	float: left;
+}
+
+.consBlock2FormInnerUp .blockInputSumm {
+	width: 190px;
+}
+
+.consBlock2Form .consBlock2FormInnerUp .blockSelectExchange {
+	width: 90px;
+	padding-top: 29px;
+}
+
+.consBlock2Form .consBlock2FormInnerUp .blockSelectPeriod {
+	width: 150px;
+}
+
+.consBlock2Form .consBlock2FormInnerUp .blockSelectApplicationProcessing {
+	width: 150px;
+}
+
+.consBlock2Form .consBlock2FormInnerUp .blockSubmit {
+	margin-top: 10px;
+}
+
+.consBlock2FormInnerUp .blockInputSumm .inputSumm,
+.consBlock2FormInnerUp .blockSelectExchange .SelectExchange,
+.consBlock2FormInnerUp .blockSelectPeriod .selectPeriod,
+.consBlock2FormInnerUp .blockSelectApplicationProcessing .selectPeriodAppl {
+	width: auto;
+	padding: 2px 10px;
+	height: auto;
+}
+
+.consBlock2FormInnerUp .inputSelect label {
+	margin: 0 0 6px 0;
+	display: block;
+}
+
+/*consumerBlock5*/
+.consumerBlock5 .pickOfDayBlock,
+.consumerBlock5 .newsFeedBlock {
+	float: left;
+	width: 47%;/* 48?????? */
+	margin: 0 2% 0 0;
+}
+/*consumerBlock5 End*/
+
+/*consumerBlock7*/
+.consumerBlock7 .consBl7Inner .offerItem {
+	width: 31%;
+}
+
+.consumerBlock7 .consBl7Inner .offerItem3 {
+	margin: 0;
+}
+/*consumerBlock7 End*/
+
+/*consumerBlock11*/
+.contTabsWrapper .tab .spanWrap .user {
+	background: url(../img/user.png) no-repeat 25px top;
+}
+
+.contTabsWrapper .tab .spanWrap .view {
+	background: url(../img/eye1.png) no-repeat 18px center;
+}
+
+.contTabsWrapper .tab .spanWrap .bank a {
+	background: url(../img/bank-icon.png) no-repeat 38px top;
+}
+/*consumerBlock11 End*/
+
+/*consumerBlock13*/
+.consumerBlock13 .column {
+	width: 31%;
+}
+
+.consumerBlock13 .column3 {
+	margin: 0;
+}
+/*consumerBlock13 End*/
+/* consumer_credit End */
+
+
+
+
